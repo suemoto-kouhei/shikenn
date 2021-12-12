@@ -68,7 +68,7 @@ const questions = [
 	{
 		'id':12,
 		'title':'次のうち，予防精神医学の概念を提唱した人物として，適切なものを 1 つ選びなさい。',
-		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 ソンダース（Saunders, C.）<br><br><input type="checkbox" name="checks" value="2" class="checks">2 カプラン（Caplan, G.）<br><br><input type="checkbox" name="checks" value="3" class="checks">3 呉秀三<br><br><input type="checkbox" name="checks" value="4" class="checks">4 <input type="checkbox" name="checks" value="5" class="checks">ピアジェ（Piaget, J.）<br><br>5 フロイト（Freud, S.）',
+		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 ソンダース（Saunders, C.）<br><br><input type="checkbox" name="checks" value="2" class="checks">2 カプラン（Caplan, G.）<br><br><input type="checkbox" name="checks" value="3" class="checks">3 呉秀三<br><br><input type="checkbox" name="checks" value="4" class="checks">4 ピアジェ（Piaget, J.）<br><br><input type="checkbox" name="checks" value="5" class="checks">5 フロイト（Freud, S.）',
 		'answer':'2',
 	},
 	{
