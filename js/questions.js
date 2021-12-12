@@ -128,7 +128,7 @@ const questions = [
 	{
 		'id':22,
 		'title':'次の記述のうち，精神保健福祉の理論や実践に影響を与えた人物の説明として，適切なものを 1 つ選びなさい。',
-		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 ジョーンズ（Jones, M.）は，病院の全環境を治療手段として用いる治療共同体の概念を提唱した。<br><br><input type="checkbox" name="checks" value="2" class="checks">2 ミニューチン（Minuchin, S.）は，集団や人間の相互依存性によるグループダイナミクスに着目した。<b<input type="checkbox" name="checks" value="3" class="checks">r><br>3 <input type="checkbox" name="checks" value="4" class="checks">ロジャーズ（Rogers, C.）は，様々な心理療法やカウンセリング理論の基本となっている面接技法を統合したマイクロカウンセリングを開発した。<br<input type="checkbox" name="checks" value="5" class="checks">><br>4 レヴィン（Lewin, K.）は，システム理論に基づいた構造的家族療法を展開し，家族成員間の境界に着目した。<br><br>5 アイビイ（Ivey, A.）は，非指示的アプローチである来談者中心療法（クライエント中心療法）を確立した。',
+		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 ジョーンズ（Jones, M.）は，病院の全環境を治療手段として用いる治療共同体の概念を提唱した。<br><br><input type="checkbox" name="checks" value="2" class="checks">2 ミニューチン（Minuchin, S.）は，集団や人間の相互依存性によるグループダイナミクスに着目した。<br><br><input type="checkbox" name="checks" value="3" class="checks">3 ロジャーズ（Rogers, C.）は，様々な心理療法やカウンセリング理論の基本となっている面接技法を統合したマイクロカウンセリングを開発した。<br><br><input type="checkbox" name="checks" value="4" class="checks">4 レヴィン（Lewin, K.）は，システム理論に基づいた構造的家族療法を展開し，家族成員間の境界に着目した。<br><br><input type="checkbox" name="checks" value="5" class="checks">5 アイビイ（Ivey, A.）は，非指示的アプローチである来談者中心療法（クライエント中心療法）を確立した。',
 		'answer':'1',
 	},
 	{
@@ -392,7 +392,7 @@ const questions = [
 	{
 		'id':66,
 		'title':'アルコホーリクス・アノニマス（ＡＡ）に関する次の記述のうち，適切なものを 1 つ選びなさい。',
-		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 アルコール依存症者の家族を対象としたグループである。<br><br><input type="checkbox" name="checks" value="2" class="checks">2 アルコール依存症者の就労支援を目的としたプログラムである。<br><br><input type="checkbox" name="checks" value="3" class="checks">3 組織の運営は専門職の関与を前提とする。<br><br><input type="checkbox" name="checks" value="4" class="checks">4 12 のステップを採用している。<br><<input type="checkbox" name="checks" value="5" class="checks">br>5 実名での参加を原則とする。',
+		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 アルコール依存症者の家族を対象としたグループである。<br><br><input type="checkbox" name="checks" value="2" class="checks">2 アルコール依存症者の就労支援を目的としたプログラムである。<br><br><input type="checkbox" name="checks" value="3" class="checks">3 組織の運営は専門職の関与を前提とする。<br><br><input type="checkbox" name="checks" value="4" class="checks">4 12 のステップを採用している。<br><br><input type="checkbox" name="checks" value="5" class="checks">5 実名での参加を原則とする。',
 		'answer':'4',
 	},
 	{
@@ -404,7 +404,7 @@ const questions = [
 	{
 		'id':68,
 		'title':'退院後生活環境相談員に関する次の記述のうち，正しいものを 1 つ選びなさい。',
-		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 担当できる医療保護入院者の人数の目安は概ね 50 人以下である。<br><br><input type="checkbox" name="checks" value="2" class="checks">2 措置入院者の退院促進も対象となる。<br><br><input type="checkbox" name="checks" value="3" class="checks">3 精神療養病棟に必置としている。<br><br><input type="checkbox" name="checks" value="4" class="checks">4 「精神保健福祉法」第 27 条第 3 <input type="checkbox" name="checks" value="5" class="checks">項に基づく精神保健指定医の診察に立ち会う。<br><br>5 精神保健福祉士として 3 年以上の相談・指導経験を必要とする。',
+		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 担当できる医療保護入院者の人数の目安は概ね 50 人以下である。<br><br><input type="checkbox" name="checks" value="2" class="checks">2 措置入院者の退院促進も対象となる。<br><br><input type="checkbox" name="checks" value="3" class="checks">3 精神療養病棟に必置としている。<br><br><input type="checkbox" name="checks" value="4" class="checks">4 「精神保健福祉法」第 27 条第 3 項に基づく精神保健指定医の診察に立ち会う。<br><br><input type="checkbox" name="checks" value="5" class="checks">5 精神保健福祉士として 3 年以上の相談・指導経験を必要とする。',
 		'answer':'1',
 	},
 	{
@@ -422,7 +422,7 @@ const questions = [
 	{
 		'id':71,
 		'title':'次の事例を読んで，問題 71 について答えなさい。<br><br>〔事　例〕<br><br>Ｂさん（50 歳，男性）は 30 代の頃に統合失調症を発症し，両親が自宅で面倒を見ていた。しかし，その両親が交通事故で亡くなると，病状が極めて不安定になり，最終的にＸ病院に 2010 年（平成 22 年）に入院した。入院後 1 年で病状は落ち着いたものの，退院が迫ると病状が悪化するなど，不安定な状態になることを 10 年ほど繰り返していた。<br><br>地域の相談支援事業所のＣ精神保健福祉士は，Ｘ病院からＢさんについて紹介を受け，Ｂさんに話を聞いた。Ｂさんは，「退院はともかく，外の世界が今どうなっているかは知りたい。あと病院の外で食事をしてみたい」とぽつぽつと話した。Ｂさんは，「障害者総合支援法」における地域相談支援に基づくサービスを利用し，Ｃ精神保健福祉士と一緒に社会資源の見学をし，外出のついでに食事などをした。外出のたびにＣ精神保健福祉士は，Ｂさんに地域での暮らしをイメージしてもらえるように働きかけた。<br><br>（問題 71）<br><br>ＢさんはＣ精神保健福祉士と一緒に行動するにつれ，退院に興味を持ち始めたが，「身寄りのない自分は困ったときに誰にも相談できない。心細い」と不安を訴えた。Ｃ精神保健福祉士は，「障害者総合支援法」における地域相談支援に基づくサービスを紹介し，随時，退院後の相談に乗ることとした。<br><br>次の記述のうち，Ｂさんが利用した制度の説明として，正しいものを 1 つ選びなさい。',
-		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 利用期間は原則無期限である。<br><br><input type="checkbox" name="checks" value="2" class="checks">2 障害支援区分の区分 3 以上の者が対象である。<br><input type="checkbox" name="checks" value="3" class="checks"><br>3 家族との同居から一人暮らしに移行した者も対象である。<br<input type="checkbox" name="checks" value="4" class="checks">><br>4 宿泊型自立訓練の利用者は対象である。<br<input type="checkbox" name="checks" value="5" class="checks">><br>5 共同生活援助（グループホーム）の利用者は対象である。',
+		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 利用期間は原則無期限である。<br><br><input type="checkbox" name="checks" value="2" class="checks">2 障害支援区分の区分 3 以上の者が対象である。<br><br><input type="checkbox" name="checks" value="3" class="checks">3 家族との同居から一人暮らしに移行した者も対象である。<br><br><input type="checkbox" name="checks" value="4" class="checks">4 宿泊型自立訓練の利用者は対象である。<br><br><input type="checkbox" name="checks" value="5" class="checks">5 共同生活援助（グループホーム）の利用者は対象である。',
 		'answer':'3',
 	},
 	{
@@ -446,7 +446,7 @@ const questions = [
 	{
 		'id':75,
 		'title':'次の記述のうち，厚生労働省が発表した障害者の雇用の状況等について，正しいものを 1 つ選びなさい。',
-		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 「平成 30 年度障害者の職業紹介状況等」によれば，2018 年度（平成 30 年度）のハローワークを通じた障害者の就職率は 20 ％未満である。<br><br><input type="checkbox" name="checks" value="2" class="checks">2 「平成 30 年度障害者の職業紹介状況等」によれば，2018 年度（平成 3<input type="checkbox" name="checks" value="3" class="checks">0 年度）の障害者雇用の就職件数において精神障害者の割合は 30 ％未満である。<br<input type="checkbox" name="checks" value="4" class="checks">><br>3 「令和元年障害者雇用状況の集計結果」によれば，民間企業における実雇用率は企業の規模が大きいほど高い。<br<input type="checkbox" name="checks" value="5" class="checks">><br>4 「令和元年障害者雇用状況の集計結果」によれば，民間企業において雇用されている精神障害者の数は，ここ 5 年間で横ばいである。<br><br>5 「令和元年障害者雇用状況の集計結果」によれば，民間企業において雇用されている障害者の数では，精神障害者が知的障害者よりも多い。',
+		'text':'<input type="checkbox" name="checks" value="1" class="checks">1 「平成 30 年度障害者の職業紹介状況等」によれば，2018 年度（平成 30 年度）のハローワークを通じた障害者の就職率は 20 ％未満である。<br><br><input type="checkbox" name="checks" value="2" class="checks">2 「平成 30 年度障害者の職業紹介状況等」によれば，2018 年度（平成 30 年度）の障害者雇用の就職件数において精神障害者の割合は 30 ％未満である。<br><br><input type="checkbox" name="checks" value="3" class="checks">3 「令和元年障害者雇用状況の集計結果」によれば，民間企業における実雇用率は企業の規模が大きいほど高い。<br><br><input type="checkbox" name="checks" value="4" class="checks">4 「令和元年障害者雇用状況の集計結果」によれば，民間企業において雇用されている精神障害者の数は，ここ 5 年間で横ばいである。<br><br><input type="checkbox" name="checks" value="5" class="checks">5 「令和元年障害者雇用状況の集計結果」によれば，民間企業において雇用されている障害者の数では，精神障害者が知的障害者よりも多い。',
 		'answer':'3',
 	},
 	{
